@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Runtime artifacts
+backend/tmp/
+uploads/
+tmp/
+*.log

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Env / secrets
+.env
+
+# Runtime artifacts
+uploads/
+tmp/
+*.wav
+*.mp3
+*.log
+server.out.txt
+server.err.txt
+
+# Whisper model cache (if downloaded locally)
+*.pt
